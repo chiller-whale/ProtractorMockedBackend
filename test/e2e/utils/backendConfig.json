@@ -1,0 +1,18 @@
+{
+    "getUrl" : "",
+    "getHeader" : 200,
+    "getResponse" : "",
+
+    "postUrl" : "",
+    "postHeader" : 200,
+    "postResponse" : [],
+
+    "putUrl" : "",
+    "putHeader" : 200,
+    "putResponse" : [],
+
+    "patchUrl" : "",
+    "patchHeader" : 200,
+    "patchResponse" : []
+
+}
