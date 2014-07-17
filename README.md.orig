@@ -1,0 +1,6 @@
+=======
+ProtractorMockedBackend
+=======================
+
+Demonstrate a mocked backend via the Angular Phonecat Tutorial. test/e2e utils and secnarios.js contain examples
+>>>>>>> ad0589f351ca3b32d932470e9dd282505cef28e6
